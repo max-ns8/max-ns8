@@ -1,9 +1,8 @@
-### ❤️ cillium, terraform, concourse, istio and infrastructure?  
+### ❤️ cillium, terraform, concourse, istio and infrastructure that builds itself?  
 
-### ❤️ kafka, telemetry and signal analysis?  
+### ❤️ kafka streams, telemetry and signal analysis?  
 
-
-[Come work remotely with me](https://www.ns8.com/en-us/careers/jobs) at [NS8](https://www.ns8.com/en-us/about)!
+## [Come work remotely with me](https://www.ns8.com/en-us/careers/jobs) at [NS8](https://www.ns8.com/en-us/about)!
 
 ![ns8](https://www.ns8.com/assets/images/logos/ns8_logo.svg)
 
