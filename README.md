@@ -1,4 +1,8 @@
-### Hi there 👋
+### ❤️ cillium, istio and infrastructure?  
+
+### ❤️ kafka, telemetry and signal analysis?  
+
+[Come work with me!](https://www.ns8.com/en-us/careers/jobs)
 
 <!--
 **max-ns8/max-ns8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
